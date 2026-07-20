@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="IZONE", VIP Megahit HD
-http://46.32.176.50/VIPMegahitHD/index.m3u8
+#EXTINF:-1 group-title="Украинские", Бигуди
+https://cdnua03.hls.tv/476/tc17/tsV1/play/1dfb8ff34c306f3689626854557e7555/96/e8s82hvblf1hpf84e57omlu63v/stream.m3u8
 
 #EXTINF:-1 group-title="Украинские",Перший
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
