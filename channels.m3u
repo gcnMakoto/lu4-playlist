@@ -1,0 +1,229 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Украинские",Перший
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+
+#EXTINF:-1 group-title="Украинские",24 канал
+https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",Еспресо
+https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
+
+#EXTINF:-1 group-title="Украинские",5 канал
+https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
+
+#EXTINF:-1 group-title="Украинские",Армiя TV
+https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
+
+#EXTINF:-1 group-title="Украинские",ИзмаилТВ
+https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",Iнтер+
+https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",1+1
+https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",СТБ
+http://stream.mcquack.net/156/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Твiй
+http://stream.mcquack.net/466/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",ДІМ
+http://stream.mcquack.net/383/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Е-Фiльм
+http://stream.mcquack.net/322/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Новий Канал
+http://stream.mcquack.net/157/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",ICTV 2
+http://stream.mcquack.net/368/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",ТЕТ
+http://stream.mcquack.net/338/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Еще
+http://stream.mcquack.net/329/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",НТН
+http://stream.mcquack.net/326/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",К1
+http://stream.mcquack.net/270/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",К-2
+https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",2х2
+http://stream.mcquack.net/173/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",UA Культура
+http://stream.mcquack.net/435/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Болт
+http://stream.mcquack.net/73/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Кус Кус
+https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",Ми Україна
+https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
+
+#EXTINF:-1 group-title="Украинские",Премиальное
+http://stream.mcquack.net/421/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",FilmUA Live
+https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",FilmUA Drama
+http://88.99.215.227/FilmUADrama/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Мега
+https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",Рыбалка
+https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",Суспільне Спорт
+http://stream.mcquack.net/444/index.m3u8
+
+#EXTINF:-1 group-title="Украинские",Пиксель
+https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
+
+#EXTINF:-1 group-title="Украинские",М1
+http://158.101.222.193:88/georgia_play.php?id=m1
+
+#EXTINF:-1 group-title="Украинские",Rai
+https://stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",CPS Action
+http://tinyurl.com/TvZaTak37/CPS_Action/video.m3u8?token=iptv.org.ua-key
+
+#EXTINF:-1 group-title="Русское Кино",CPS Comedy
+http://tinyurl.com/TvZaTak37/CPS_Comedy/video.m3u8?token=iptv.org.ua-key
+
+#EXTINF:-1 group-title="Русское Кино",CPS Drama
+http://tinyurl.com/TvZaTak37/CPS_Drama/video.m3u8?token=iptv.org.ua-key
+
+#EXTINF:-1 group-title="Русское Кино",CPS Fiction
+http://tinyurl.com/TvZaTak37/CPS_Fiction/video.m3u8?token=iptv.org.ua-key
+
+#EXTINF:-1 group-title="Русское Кино",CPS Fresh
+http://tinyurl.com/TvZaTak37/CPS_Fresh/video.m3u8?token=iptv.org.ua-key
+
+#EXTINF:-1 group-title="Русское Кино",CPS Detective
+http://tinyurl.com/TvZaTak37/CPS_Investigation/video.m3u8?token=iptv.org.ua-key
+
+#EXTINF:-1 group-title="Русское Кино",КиноПремьера2
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+
+#EXTINF:-1 group-title="Русское Кино",Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+
+#EXTINF:-1 group-title="Русское Кино",Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+
+#EXTINF:-1 group-title="Русское Кино",КиноХит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+
+#EXTINF:-1 group-title="Русское Кино",КиноСерия
+http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",Киномикс
+http://93.170.254.17/Kinomiks/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",КиноСемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+
+#EXTINF:-1 group-title="Русское Кино",Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+
+#EXTINF:-1 group-title="Русское Кино",КиноХит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+
+#EXTINF:-1 group-title="Русское Кино", Кино Ужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+
+#EXTINF:-1 group-title="Русское Кино",Viju TV1000 Action
+http://178.134.1.158:8081/tv1000action/index.m3u8?token=tva.in.ua
+
+#EXTINF:-1 group-title="Русское Кино",Viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=mO1pygCeC8dZR4E-XrxdtQ&e=1784870426&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+
+#EXTINF:-1 group-title="Русское Кино",Bollywood
+http://176.118.197.101/Bollywood_HD/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",Hit HD
+http://hls127.freeott.top:8080/XitHD/video.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",ЕвроКино
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+
+#EXTINF:-1 group-title="Русское Кино",КиноТВ
+http://194.152.35.17/kino-tv/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",Илюзион +
+http://176.118.197.101/Illuzion+/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",sci-fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+
+#EXTINF:-1 group-title="Русское Кино",.black
+http://158.101.222.193:88/georgia_play.php?id=black
+
+#EXTINF:-1 group-title="Русское Кино", НСТ
+http://178.134.1.158:8081/nst/index.m3u8?token=tva.in.ua
+
+#EXTINF:-1 group-title="Русское Кино", TV 3
+http://5.188.221.43:8080/play/tv3
+
+#EXTINF:-1 group-title="Русские",Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",МужскоеКино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+
+#EXTINF:-1 group-title="Русское Кино",НТВ
+https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",Амедия 1
+http://46.32.176.50/amedia1/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",Амедия 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+
+#EXTINF:-1 group-title="Русское Кино",Амедия Hit
+http://194.152.35.17/amedia-hit/index.m3u8
+
+#EXTINF:-1 group-title="Русское Кино",Амедия Премиум
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+
+#EXTINF:-1 group-title="Русские",CТС
+http://176.118.197.101/CTC/index.m3u8
+
+#EXTINF:-1 group-title="Русские",Суббота!
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
+
+#EXTINF:-1 group-title="Русские",Пятница
+http://158.101.222.193:88/georgia_play.php?id=friday
+
+#EXTINF:-1 group-title="Русские", Домашний
+http://5.188.221.43:8080/play/domashniy
+
+#EXTINF:-1 group-title="Русские", Домашний Запас
+http://tinyurl.com/TvZaTak65?id=domashni
+
+#EXTINF:-1 group-title="Русские",2Х2
+http://176.118.197.101/2x2/index.m3u8
+
+#EXTINF:-1 group-title="Русские",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+
+#EXTINF:-1 group-title="Русские",Вкус
+http://178.134.1.158:8081/vkus/index.m3u8
+
+
+
