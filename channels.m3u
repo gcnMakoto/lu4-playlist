@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="IZONE", VIP Megahit HD
+http://46.32.176.50/VIPMegahitHD/index.m3u8
+
 #EXTINF:-1 group-title="Украинские",Перший
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
 
