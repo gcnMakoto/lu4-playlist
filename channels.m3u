@@ -60,10 +60,10 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украинские",2х2
 http://stream.mcquack.net/173/index.m3u8
 
-#EXTINF:-1 group-title="Украинские",UA Культура
+#EXTINF:-1 group-title="Украинские",UA Культура ТЕС
 http://stream.mcquack.net/435/index.m3u8
 
-#EXTINF:-1 group-title="Украинские",Болт
+#EXTINF:-1 group-title="Украинские",Болт ТЕС
 http://stream.mcquack.net/73/index.m3u8
 
 #EXTINF:-1 group-title="Украинские",Кус Кус
