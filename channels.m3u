@@ -234,5 +234,6 @@ http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 group-title="Русские",Plan B HD
 http://46.32.176.50/paramountchannel/index.m3u8
 
-
+#EXTINF:-1 tvg-id="channel1" tvg-name="Канал 1" group-title="Прямой эфир",Канал 1
+http://127.0.0.1/live/channel1/stream.m3u8
 
