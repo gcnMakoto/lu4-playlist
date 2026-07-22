@@ -225,5 +225,14 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Русские",Вкус
 http://178.134.1.158:8081/vkus/index.m3u8
 
+#EXTINF:-1 group-title="Русские",Animalplanet
+http://46.32.176.50/animalplanet/index.m3u8
+
+#EXTINF:-1 group-title="Русские",Animalplanet
+http://46.32.176.50/animalplanet/index.m3u8
+
+#EXTINF:-1 group-title="Русские",Animalplanet
+http://46.32.176.50/AnimalPlanetHD/index.m3u8
+
 
 
